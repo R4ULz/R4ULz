@@ -28,6 +28,8 @@ Atualmente, trabalho com desenvolvimento web e estou sempre em busca de desafios
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=R4ULz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R4ULz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### Vamos conectar!
